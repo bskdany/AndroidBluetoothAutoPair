@@ -1,4 +1,4 @@
-# failed_bluetooth_auto_pair
+# AndroidBluetoothAutoPair
 
 Failed project of an android bluetooth app that would auto pair and auto connect non protected speakers.
 
